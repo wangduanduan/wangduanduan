@@ -7,7 +7,7 @@
 - 💬 Ask me about sip, voip
 - 📫 How to reach me (wechatId): suguswang177
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Blog: yuque.com/wangdd
 
 [![wangduanduan's github stats](https://github-readme-stats.vercel.app/api?username=wangduanduan)](https://github.com/anuraghazra/github-readme-stats)
 
