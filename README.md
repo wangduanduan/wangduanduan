@@ -7,6 +7,11 @@
 - 📫 How to reach me (wechatId): suguswang177
 - ⚡ Blog: [yuque.com/wangdd](https://www.yuque.com/wangdd)
 
-[![wangduanduan's github stats](https://github-readme-stats.vercel.app/api?username=wangduanduan)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangduanduan&count_private=true&show_icons=true&&theme=onedark" />
+</span>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangduanduan&theme=onedark&layout=compact" />
+</span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangduanduan)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wangduanduan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
