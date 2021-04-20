@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WellJoint
 - 🌱 I’m currently learning Node.js, OpenSIPS, WebRTC , Go, c
 - 👯 I’m looking to collaborate on OpenSIPS
 - 💬 Ask me about Node.js SIP OpenSIPS and VoIP
