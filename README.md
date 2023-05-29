@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on OpenSIPS
 - 💬 Ask me about Node.js SIP OpenSIPS and VoIP
 - 📫 How to reach me (wechatId): suguswang177
-- ⚡ Blog: [yuque.com/wangdd](https://www.yuque.com/wangdd)
+- ⚡ Blog: [wdd.js.org](https://wdd.js.org)
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangduanduan&count_private=true&show_icons=true&&theme=onedark" />
