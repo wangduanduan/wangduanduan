@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node.js, OpenSIPS, WebRTC , Go, c
+- 🌱 I’m currently learning rust, c
 - 👯 I’m looking to collaborate on OpenSIPS
 - 💬 Ask me about Node.js SIP OpenSIPS and VoIP
 - 📫 How to reach me (wechatId): suguswang177
